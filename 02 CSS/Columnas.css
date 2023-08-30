@@ -1,0 +1,33 @@
+*{
+    font-family: monospace;
+}
+nav{
+    background: #64c4ed;
+    padding: 20px;
+    border-radius: 10px;;
+}
+nav a{
+    color: whitesmoke;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.padre{
+    display: flex;
+}
+
+.columna{
+    background: #4f81c7;
+    color: whitesmoke;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+}
+
+a:hover{
+    background: #f0d78c;
+    border-radius: 5px;
+}

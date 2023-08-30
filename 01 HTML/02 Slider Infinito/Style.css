@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2f353a;
+    height: 100vh;
+  }
+  
+  .slider {
+    background: #ffffff;
+    height: 100px;
+    width: 42vw;
+    overflow: hidden;
+  }
+  
+  .slider .move {
+    display: flex;
+    width: calc(200px * 14);
+    animation: animacion 50s linear infinite;
+  }
+  
+  @keyframes animacion {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(calc(-250px * 7));
+    }
+  }
+  
+  .slider .box {
+    height: 100px;
+    width: 500px;
+  }
+  
+  img{
+    width: 250px;
+    height: 100px;
+  }
+  
+  

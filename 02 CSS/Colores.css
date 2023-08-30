@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.color{
+    color: cornflowerblue;
+}
+.verde{
+    color: rgb(60, 171, 71);
+}
+.celeste{
+    color: #2d84ca;
+}

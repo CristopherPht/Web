@@ -1,0 +1,13 @@
+h1{
+    background: #e26241;
+    border-radius: 5px;
+    /*margin-left: 100px;
+    margin-bottom: 200px; */
+    /* margin: 100px; */
+    margin: 100px 10px 20px 500px;
+}
+p{
+    background: #ffd369;
+    border-radius: 5px;
+    padding: 100px;
+}
