@@ -1,0 +1,8 @@
+body{
+  font-family: Rale;
+}
+
+@font-face{
+font-family: Rale;
+src: url(fonts/Raleway-Regular.ttf)
+}

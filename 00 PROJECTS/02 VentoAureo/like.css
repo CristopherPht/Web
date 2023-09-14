@@ -1,0 +1,10 @@
+.like{
+    margin-top: -8px;
+}
+.container{
+    padding-top: 20px;
+}
+@font-face{
+	font-family: Bebas;
+	src: url(fonts/BEBAS.ttf)
+}
